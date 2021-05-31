@@ -1,4 +1,6 @@
 C_BasicStudy
 ===========
-C basic study
-c
+
+조건과 분기
+-----------
+break; 를 만나면 break 직전까지의 코드는 실행하고 빠져나온다.
